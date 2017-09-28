@@ -162,7 +162,7 @@ class findgame():
                     sys.exit(2)
 
             # catch all
-            if not self.gvn_flag and not self.game_name_flag: 
+            if not self.gvn_flag and not self.gamename_flag: 
                 print("check flags, didn't get -g or --game")
                 sys.exit(2)
                 
