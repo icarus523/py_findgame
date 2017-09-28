@@ -9,6 +9,7 @@ import time
 
 #v1 Initial Release
 #v2 Update to Search for GVNs
+#v2.1 Update to address Dung's identified bug
 
 class findgame():
 
