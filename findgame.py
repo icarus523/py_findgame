@@ -21,6 +21,7 @@ class findgame():
         elif (mid == '07'): manufacturer = 'SG Gaming'
         elif (mid == '09'): manufacturer = 'Konami'
         elif (mid == '12'): manufacturer = 'AGT'
+        elif (mid == '15'): manufacturer = 'Atlas Gaming'
         else: manufacturer = mid
 
         return manufacturer
